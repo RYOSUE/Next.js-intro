@@ -1,4 +1,3 @@
-```markdown
 # Next.js Dashboard
 
 このリポジトリは、Next.js（App Router）とTailwind CSSを使ったダッシュボードアプリケーションのサンプルです。
